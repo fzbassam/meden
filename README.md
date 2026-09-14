@@ -51,7 +51,7 @@ Ensure you have Python installed along with your required spatial libraries. It 
 
 ```bash
 # Clone the repository
-git clone [https://github.com/fzbassam/meden.git](https://github.com/fzbassam/meden.git)
+git clone [https://github.com/fzbassam/meden](https://github.com/fzbassam/meden)
 cd meden
 
 # Create a virtual environment
